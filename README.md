@@ -7,7 +7,7 @@ Table of Contents
 
 It's been discussed heavily that the new Infernals are... less than stellar. I've said on a few occasions that it's difficult to repair Infernals because they're really quite broad. Without the overarching conceit of the Reclamation (even as vaporware), they're pushed in possibly too many directions. And Malfeas, like Autochthonia, is a setting which has basically nothing in common with the standard Exalted play experience.
 
-Alchemcicals likewise needed drastic surgery to be properly attached to Creation as a splat, but all that was really needed was to recontextualize their patriotism into the communal affections of the Autobots. Vanilla "Roboviet" Alchemicals aren't displaced by this change either. Infernals aren't as easily separated, even if the Yozis human forms are put way in the back. The current direction for Infernals also basically rules out most of the previous character concepts.
+Alchemicals likewise needed drastic surgery to be properly attached to Creation as a splat, but all that was really needed was to recontextualize their patriotism into the communal affections of the Autobots. Vanilla "Roboviet" Alchemicals aren't displaced by this change either. Infernals aren't as easily separated, even if the Yozis human forms are put way in the back. The current direction for Infernals also basically rules out most of the previous character concepts.
 
 ## Setting design goals
 
@@ -34,7 +34,7 @@ In my ten years of running mixed games, no one has cared about the First Age stu
 
 "Big scary tranforming monsters" is a core mechanical theme as well as storytelling, so that'll be kept.
 
-For some reason, "Agens of Yozi vengeance" was the main story theme used for the new direction. Why? That's like the Eight Nations and Alchemicals. If Sondok's running a cult, just give her an Exaltation, and we don't even have to involve the rest of the Demon Realm to do the Yozis' will.
+For some reason, "Agents of Yozi vengeance" was the main story theme used for the new direction. Why? That's like the Eight Nations and Alchemicals. If Sondok's running a cult, just give her an Exaltation, and we don't even have to involve the rest of the Demon Realm to do the Yozis' will.
 
 "Moustache-twirling villains" is fun for most folks but not everyone. So we can keep it but attach it to another awkward mechanic that half of everyone ignores – Limit. That's kind of where it was originally anyway.
 
@@ -67,3 +67,11 @@ Lillun is very much leaning into rewriting the Immaculate Philosophy. She intend
 It was a common meme back in the heyday of Second Edition to suggest Infernals just abandon Creation to its problems and forge new worlds. While sometimes fun, that's just [VEHK's plan](https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec) – and VEHK is a coward. Given that Infernals are true Primordial Exalted, it's a more interesting story for them to restore the world in place of the Yozis. It's of course up to the PCs as to whether they're restoring it for good reasons or just to exploit again.
 
 Like the titans before them, the Lilliputians are a family who don't necessarily like one another but have the same goals. Rather than tearing things down senselessly like Infernals, they're digging into the earth and regrowing society on their own backs. They're land gods, sustaining their provinces unnaturally and transforming their people into something more than mortal. If the gods won't sustain Creation, then it is up to the humans who live there.
+
+## The state of the splat
+
+Don't take the caste mechanics for Gospel. I started by directly copying from the Infernal castes and adapting to be more like the Solar or Abyssal ones where appropriate. Then I got tired of all the anima effects being boring and just started adding whatever I felt like. Some of them are clearly broken. They exist in their current state mostly to indicate direction. I need to sit down and do proper play simulations. I'll probably read others' campaign logs since my group is not ready to go yet.
+
+The charms doc is of course mostly a placeholder. Since I intend on having a lot of effects occur on a logicstical scale, I have to really think about what that means. How will charms interact with Ventures and Battle Groups?
+
+Also, I will continue to never capitalize "charms." Too many proper nouns makes a lot of passages hard to read in Exalted.
