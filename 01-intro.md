@@ -9,7 +9,7 @@ I can't wait to meet you.
 With love,
 Your mother Lillun
 
-TODO: Signed illlustration of Mama Lil
+![Lillun's wanted poster](img/lil-header.png)
 
 ## Lilliputian Exalt Advantages
 
@@ -47,7 +47,7 @@ At the end of each session, you gain an Exalt Milestone if you used physical for
 
 ### Hymn
 
-TODO: Caste mark – Two hands holding the Host
+TODO: Caste mark – Hands clasped
 
 Everyone wants to believe in something bigger than themself. Something which could magically sweep all their troubles away. Hymn is the song the Makers sang to celebrate the Queen of Heaven. Hymn is your song of banishing your own doubts. Hymn is the song of your people coming together for something bigger than all of us. Your inner monster seems to glimmer with the rise and fall of a distant aria.
 
