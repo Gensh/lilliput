@@ -31,7 +31,7 @@ The Lilliputian castes recall the five songs of the ancient Makers. Our family h
 
 ### March
 
-TODO: Caste mark – Drum with sticks
+![March caste mark](img/march.png)
 
 Sometimes, the only constant is the ancient and unbroken might of brute force. Sometimes, raw violence is the only shared language. March is the song of the Makers gone to war with Chaos. March is your song of taking up arms to protect your home from invaders. March is your song of taking life back from tyrants. The heartbeat of your inner monster is a drum which guides your people.
 
@@ -47,7 +47,7 @@ At the end of each session, you gain an Exalt Milestone if you used physical for
 
 ### Hymn
 
-TODO: Caste mark – Hands clasped
+![Hymn caste mark](img/hymn.png)
 
 Everyone wants to believe in something bigger than themself. Something which could magically sweep all their troubles away. Hymn is the song the Makers sang to celebrate the Queen of Heaven. Hymn is your song of banishing your own doubts. Hymn is the song of your people coming together for something bigger than all of us. Your inner monster seems to glimmer with the rise and fall of a distant aria.
 
@@ -63,7 +63,7 @@ At the end of each session, you gain an Exalt Milestone if you gathered forces f
 
 ### Saga
 
-TODO: Caste mark – Open book with pages flying
+![Saga caste mark](img/saga.png)
 
 Stories are what shape cultures. What do we sing to our children as they sleep? Those are the dreams they will chase when they are older. Saga is the song of the Makers inventing worlds and kings. Saga is your song of discovering new friends and new ideas. Saga is the song of your people bringing you tales of hard-won victory. Your inner monster's stride is a palpable rhythm, the meter of your glory.
 
@@ -79,7 +79,7 @@ At the end of each session, you gain an Exalt Milestone if you used your knowled
 
 ### Nocturne
 
-TODO: Caste mark – Circle of hands
+![Nocturne caste mark](img/nocturne.png)
 
 Night is often when we find ourselves. For some, it is quiet. For some, it is the only time we truly live, freed from the shackles of day's labors. Nocturne is the song of the Makers as they beheld Creation. Nocturne is the song of the world's powers looking away. Nocturne is your song of liberation, when you are free to plot or celebrate or whatsoever you please. Your inner monster is graceful and beautiful, its every movement flowing with the sonorous sound of your breathing.
 
@@ -95,7 +95,7 @@ At the end of each session, you gain an Exalt Milestone if you perform a major a
 
 ### Anthem
 
-TODO: Caste mark – Flagpole
+![Anthem caste mark](img/anthem.png)
 
 There comes a time when individuals are not enough. There comes a time when adventure weighs on the bones, and most put down roots. They sell their wisdom to the young, and the adventure begins anew. Anthem is the song of the Makers' castoffs forging kingdoms of their own. Anthem is your song of declaring independence. Anthem is your song of declaring you will never be alone again. Your inner monster glimmers with a contagious glory, splitting light like a prism to illluminate your allies.
 

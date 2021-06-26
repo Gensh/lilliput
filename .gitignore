@@ -1,1 +1,6 @@
+# Configs
 .ztr-directory
+
+# Large illustration artifacts
+*.clip
+*.xcf
