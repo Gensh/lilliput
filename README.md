@@ -72,6 +72,6 @@ Like the titans before them, the Lilliputians are a family who don't necessarily
 
 Don't take the caste mechanics for Gospel. I started by directly copying from the Infernal castes and adapting to be more like the Solar or Abyssal ones where appropriate. Then I got tired of all the anima effects being boring and just started adding whatever I felt like. Some of them are clearly broken. They exist in their current state mostly to indicate direction. I need to sit down and do proper play simulations. I'll probably read others' campaign logs since my group is not ready to go yet.
 
-The charms doc is of course mostly a placeholder. Since I intend on having a lot of effects occur on a logicstical scale, I have to really think about what that means. How will charms interact with Ventures and Battle Groups?
+The charms doc is of course mostly a placeholder. Since I intend on having a lot of effects occur on a logistical scale, I have to really think about what that means. How will charms interact with Ventures and Battle Groups?
 
 Also, I will continue to never capitalize "charms." Too many proper nouns makes a lot of passages hard to read in Exalted.

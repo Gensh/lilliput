@@ -11,6 +11,8 @@ Your mother Lillun
 
 ![Lillun's wanted poster](img/lil-header.png)
 
+> As a Lilliputian Exalt, you were hand-picked for a second chance by your mother Lillun. You returned to the task which once overwhelmed you wielding music your mother stole from the Makers. You have seen the true shape of humankind, and you will grant that gift to the kind and common people which cradled your own divinity. You have been Exalted less than a year.
+
 ## Lilliputian Exalt Advantages
 
 **Though Little, Fierce**: While you are at your Critical health level or at four or more anima, the breath of war restores two motes instead of one, and you recover one mote between actions during social influence scenes or ventures.
@@ -109,13 +111,9 @@ At the end of each session, you gain an Exalt Milestone if you forced powerful s
 
 **Apple Didn't Fall Far** (Iconic): Everything bad that's ever happened is because spirits and mortals alike refuse to take responsibility for their actions. They've been given entirely too much rope. Time to hang the gods. Spend 5 anima and accuse any character present of crimes against humanity. All the spirits of justice I've compelled to service will weigh your arguments and perform suitable punishment if your evidence sways them.
 
-—
-
-> As a Lilliputian Exalt, you were hand-picked for a second chance by your mother Lillun. You returned to the task which once overwhelmed you wielding music your mother stole from the Makers. You have seen the true shape of humankind, and you will grant that gift to the kind and common people which cradled your own divinity. You have been Exalted less than a year.
-
 ## The Great Curse
 
-The true bite of the Great Curse is the knowings that its outbursts may be contained. So many Exalted are without the tools or the help they need when they struggle beneath the burden of heroism. Your own burden is greater for your ancestry. If you slip, your inner monster will break free and in the throes of terrible passion.
+The true bite of the Great Curse is the knowing that its outbursts may be contained. So many Exalted are without the tools or the help they need when they struggle beneath the burden of heroism. Your own burden is greater for your ancestry. If you slip, your inner monster will break free and in the throes of terrible passion.
 
 All Lilliputians possess additional conditions which may incite the Great Curse:
 

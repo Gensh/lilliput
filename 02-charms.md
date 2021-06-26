@@ -8,7 +8,7 @@ More powerful charms will be keyed to one or more of the Makers. When you learn 
 > - Devil Tyrant: Bringing peace, except by overwhelming violence.
 > - Lawmaker Princess: Being generous, except to create debt.
 > - Perfect Hierarch: Destroying, except things of the Wyld.
-> - Laughing Bodhissatva: Causing effect at distance, except if you provide means to reach you.
+> - Laughing Bodhisattva: Causing effect at distance, except if you provide means to reach you.
 > - Bleak Nemesis: Creating light or enlightenment, except to cause a horrible revelation.
 > - Great Mother: Burning, physically or emotionally, except by poison or acid or hatred. 
 > - Great Maker: Destroying, except to rebuild.
