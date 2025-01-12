@@ -1,10 +1,10 @@
-Do you know why Time is a wheel? Do you know why the mark of an Age is when a new holy tyrant rises? Do you know why those previous statements are held to be true? Even when the Anathema Deliberative overthrown by the Shogunate -- a military junta with no true unity? Even though the Shogunate's own rule was ended by disease?
+Do you know why Time is a wheel? Do you know why the mark of an Age is when a new holy tyrant rises? Do you know why those previous statements are held to be true? Even when the Anathema Deliberative overthrown by the Shogunate — a military junta with no true unity? Even though the Shogunate's own rule was ended by disease?
 
 The myth preys upon a belief held true by every faith and creed in Creation and beyond: the hero.
 
 When the Makers of All arose from the formless chaos, they were each co-equal until the coming of the Primordial King. With him came notions of order and hierarchy, but the Makers themselves were not lessened. Each had their role; their works were merely centralized and directed now. Together, they made many wonders until at last came the world you know. It was in this time that Gaia, Mother of the Elemental Dragons beloved by all, taught her most beneficent children the ways of harmony.
 
-Then, my father whispered into the King's ear: make one like yourself, to rule over all the lesser things within. The King, stoked to his greatest vanity, made the Sun Himself. The Sun, in the beginning, was perfect and brilliant and would burn all the world to ash. He was too great. This was the glory of the King of the Gods -- divinity without equal -- the first true hero. This is my father's venom.
+Then, my father whispered into the King's ear: make one like yourself, to rule over all the lesser things within. The King, stoked to his greatest vanity, made the Sun Himself. The Sun, in the beginning, was perfect and brilliant and would burn all the world to ash. He was too great. This was the glory of the King of the Gods — divinity without equal — the first true hero. This is my father's venom.
 
 The Makers were co-equal, though they had a King. The gods, you know, hold many forms and powers. The mighty trample upon the weak and scheme to best their would-be equals. They abuse each other and their faithful if the Immaculate monks do not hold them to task. Who holds the King to task? Who has the right? Who has the strength?
 
@@ -28,11 +28,11 @@ Though we might burn with the will to leave our parents' home, to do so has neve
 
 From my father's mouth, there is only venom. Today, I speak to you the cure.
 
-The Makers placed into my heart and guardianship, souls in torment. These, I have made beautiful again and let fly to make new heroes -- new Exalted. These ones are not glorious parents to stand before you, to labor alone in the fields of darkness while you wait in safety. These are your elder siblings, to grasp the hands of those who wish to leave and guide you in the tasks which must be done.
+The Makers placed into my heart and guardianship, souls in torment. These, I have made beautiful again and let fly to make new heroes — new Exalted. These ones are not glorious parents to stand before you, to labor alone in the fields of darkness while you wait in safety. These are your elder siblings, to grasp the hands of those who wish to leave and guide you in the tasks which must be done.
 
 These cannot protect you on their own. Just the same, they are not distant and strange, who speak in riddles and say "when you are older, you will understand". They will guide you on the righteous path, and in turn, you will one day join them.
 
-This is more than metaphor -- I send unto you Exalted whose power depends on those they uplift. I send unto you Exalted who are at the mercy of "the common man", who are noble in their humility, who will join you in the fields and workshops instead of demanding your labor serve them. Why should you feed and arm a distant army of "heroes" when there is one who lives among you and makes preparations to defend your land because it is their land too?
+This is more than metaphor — I send unto you Exalted whose power depends on those they uplift. I send unto you Exalted who are at the mercy of "the common man", who are noble in their humility, who will join you in the fields and workshops instead of demanding your labor serve them. Why should you feed and arm a distant army of "heroes" when there is one who lives among you and makes preparations to defend your land because it is their land too?
 
 The all-enlightened Elemental Dragons are co-equal, but their eldest brother, Lord Pasiap, is preeminent, for his centering guides them. So too were the Makers of All co-equal beneath their King. This is the true and highest state of affairs. I ask you now, children of man, to rise to the occasion and be co-equal with the Exalted.
 
